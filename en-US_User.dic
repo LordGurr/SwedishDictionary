@@ -18930,7 +18930,9 @@ bördsstolt
 bördsstolthet
 bördstitel
 börja
+började
 början
+börjar
 Börje
 Börjelslandet
 Börjesson
@@ -31741,6 +31743,7 @@ fiende
 fiendeland
 fienden
 fiendens
+fiender
 fiendesidan
 fiendesoldat
 fiendskap
@@ -43123,6 +43126,7 @@ geovetare
 geovetenskap
 geovetenskaplig
 gepard
+ger
 Gerald
 geranien
 geranier
@@ -78893,6 +78897,7 @@ lägesparameter
 lägesrapport
 lägesstyrning
 lägessvetsning
+läget
 lägg
 lägga
 läggande
@@ -81494,6 +81499,7 @@ markduk
 markeffektfarkost
 markegång
 Markelius
+marken
 markera
 markerad
 markering
@@ -82562,6 +82568,7 @@ medaljör
 medaljös
 medan
 medanklagad
+medans
 medansvar
 medansvarig
 medarbeta
@@ -100046,6 +100053,7 @@ pejlutrustning
 pejorativ
 pek
 peka
+pekade
 pekande
 pekannöt
 pekannötspaj
@@ -100973,6 +100981,8 @@ pilbössa
 Pildammarna
 Pildammsparken
 pilefoder
+pilen
+Pilens
 pilera
 pilfink
 pilfinkshane
@@ -109743,6 +109753,7 @@ riktmedel
 riktmärke
 riktmärkning
 riktning
+Riktningen
 riktningskänslig
 riktningslöshet
 riktningspil
@@ -110049,6 +110060,7 @@ ritapparat
 Ritar
 ritardando
 ritare
+ritas
 ritbestick
 ritblock
 ritbok
@@ -111018,6 +111030,8 @@ rumlös
 rumma
 rummare
 rummel
+rummen
+rummet
 rump
 rumpa
 rumpbild
@@ -111122,6 +111136,7 @@ rund
 runda
 rundabordskonferens
 rundabordssamtal
+rundan
 rundbal
 rundbana
 rundbarka
@@ -116313,6 +116328,7 @@ sicksackkörning
 sicksacksöm
 sid
 sida
+sidan
 sidansvariga
 sidansvarige
 sidantal
@@ -132174,7 +132190,10 @@ svinföda
 sving
 swing
 svinga
+svingades
+svingar
 svingarm
+svingat
 swinger
 svinghastighet
 svinglad
@@ -132464,6 +132483,7 @@ svära
 svärd
 Swärd
 svärdbärare
+svärdet
 svärdfisk
 svärdformad
 svärdformig
@@ -154336,6 +154356,7 @@ värdeminskning
 värdemässig
 värdemätare
 värden
+värdena
 värdeneutral
 värdenihilism
 värdeodds
@@ -158469,6 +158490,7 @@ Zytomierska
 öppnar
 öppnare
 öppning
+öppningen
 öppningsakt
 öppningsanförande
 öppningsavgift
